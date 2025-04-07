@@ -7702,7 +7702,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(apiKey:bankInvoiceId:orderNumber:merchantLogin:redirectUri:binding:)",
+            "printedName": "init(apiKey:bankInvoiceId:orderNumber:merchantLogin:redirectUri:bindingId:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -7757,10 +7757,10 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@SPaySdkDEBUG@objc(cs)SPaymentRequest(im)initWithApiKey:bankInvoiceId:orderNumber:merchantLogin:redirectUri:binding:",
-            "mangledName": "$s12SPaySdkDEBUG15SPaymentRequestC6apiKey13bankInvoiceId11orderNumber13merchantLogin11redirectUri7bindingACSS_S5SSgtcfc",
+            "usr": "c:@M@SPaySdkDEBUG@objc(cs)SPaymentRequest(im)initWithApiKey:bankInvoiceId:orderNumber:merchantLogin:redirectUri:bindingId:",
+            "mangledName": "$s12SPaySdkDEBUG15SPaymentRequestC6apiKey13bankInvoiceId11orderNumber13merchantLogin11redirectUri07bindingJ0ACSS_S5SSgtcfc",
             "moduleName": "SPaySdkDEBUG",
-            "objc_name": "initWithApiKey:bankInvoiceId:orderNumber:merchantLogin:redirectUri:binding:",
+            "objc_name": "initWithApiKey:bankInvoiceId:orderNumber:merchantLogin:redirectUri:bindingId:",
             "declAttributes": [
               "AccessControl",
               "ObjC"

@@ -170,7 +170,7 @@ extension SPaySdkDEBUG.SBShimmeringView {
   }
 }
 @objc(SPaymentRequest) final public class SPaymentRequest : ObjectiveC.NSObject {
-  @objc public init(apiKey: Swift.String, bankInvoiceId: Swift.String, orderNumber: Swift.String, merchantLogin: Swift.String, redirectUri: Swift.String, binding: Swift.String? = nil)
+  @objc public init(apiKey: Swift.String, bankInvoiceId: Swift.String, orderNumber: Swift.String, merchantLogin: Swift.String, redirectUri: Swift.String, bindingId: Swift.String? = nil)
   @objc deinit
 }
 extension UIKit.UIImageView : SPaySdkDEBUG.SBShimmeringView {

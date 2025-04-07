@@ -421,7 +421,7 @@ typedef SWIFT_ENUM(NSInteger, SPayState, open) {
 
 SWIFT_CLASS_NAMED("SPaymentRequest")
 @interface SPaymentRequest : NSObject
-- (nonnull instancetype)initWithApiKey:(NSString * _Nonnull)apiKey bankInvoiceId:(NSString * _Nonnull)bankInvoiceId orderNumber:(NSString * _Nonnull)orderNumber merchantLogin:(NSString * _Nonnull)merchantLogin redirectUri:(NSString * _Nonnull)redirectUri binding:(NSString * _Nullable)binding OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithApiKey:(NSString * _Nonnull)apiKey bankInvoiceId:(NSString * _Nonnull)bankInvoiceId orderNumber:(NSString * _Nonnull)orderNumber merchantLogin:(NSString * _Nonnull)merchantLogin redirectUri:(NSString * _Nonnull)redirectUri bindingId:(NSString * _Nullable)bindingId OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
@@ -902,7 +902,7 @@ typedef SWIFT_ENUM(NSInteger, SPayState, open) {
 
 SWIFT_CLASS_NAMED("SPaymentRequest")
 @interface SPaymentRequest : NSObject
-- (nonnull instancetype)initWithApiKey:(NSString * _Nonnull)apiKey bankInvoiceId:(NSString * _Nonnull)bankInvoiceId orderNumber:(NSString * _Nonnull)orderNumber merchantLogin:(NSString * _Nonnull)merchantLogin redirectUri:(NSString * _Nonnull)redirectUri binding:(NSString * _Nullable)binding OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithApiKey:(NSString * _Nonnull)apiKey bankInvoiceId:(NSString * _Nonnull)bankInvoiceId orderNumber:(NSString * _Nonnull)orderNumber merchantLogin:(NSString * _Nonnull)merchantLogin redirectUri:(NSString * _Nonnull)redirectUri bindingId:(NSString * _Nullable)bindingId OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
