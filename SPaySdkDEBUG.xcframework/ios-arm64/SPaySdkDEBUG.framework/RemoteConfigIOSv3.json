@@ -96,7 +96,7 @@
         },
         {
             "name" : "payWithBinding",
-            "value" : false
+            "value" : true
         }
     ],
     "bankApps" : [
