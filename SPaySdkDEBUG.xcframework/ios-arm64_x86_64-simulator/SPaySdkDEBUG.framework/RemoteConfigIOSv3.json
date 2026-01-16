@@ -97,49 +97,49 @@
         {
             "name" : "payWithBinding",
             "value" : true
+        },
+        {
+            "name" : "appAuth",
+            "value" : true
+        },
+        {
+            "name" : "phoneAuth",
+            "value" : true
         }
     ],
     "bankApps" : [
         {
-            "appId" : 5,
-            "authLink" : "app-online-ios://sbolidexternallogin/",
-            "utilLink" : "app-online-ios://sbolonline/",
-            "iconURL" : "https://cms-res-web.online.sberbank.ru/sberpay/SDK/budgetonline.png",
-            "name" : "Онлайн киоск",
-            "type" : "prom"
-        },
-        {
-            "appId" : 4,
-            "authLink" : "budgetonline-ios://sbolidexternallogin/",
-            "utilLink" : "budgetonline-ios://sbolonline/",
-            "iconURL" : "https://cms-res-web.online.sberbank.ru/sberpay/SDK/budgetonline.png",
-            "name" : "Бюджет Онлайн",
-            "type" : "prom"
-        },
-        {
-            "appId" : 3,
-            "authLink" : "ios-app-smartonline://sbolidexternallogin/",
-            "utilLink" : "ios-app-smartonline://sbolonline/",
-            "iconURL" : "https://cms-res-web.online.sberbank.ru/sberpay/SDK/SBOL_logo_small.png",
-            "name" : "Онлайн",
-            "type" : "prom"
-        },
-        {
-            "appId" : 2,
-            "authLink" : "btripsexpenses://sbolidexternallogin/",
-            "utilLink" : "btripsexpenses://sbolonline/",
-            "iconURL" : "https://cms-res-web.online.sberbank.ru/sberpay/SDK/iconSB.png",
-            "name" : "Онлайн",
-            "type" : "prom"
-        },
-        {
-            "appId" : 1,
-            "authLink" : "sbolidexternallogin://",
-            "utilLink" : "sbolonline://",
-            "iconURL" : "https://cms-res-web.online.sberbank.ru/sberpay/SDK/image-2.png",
-            "name" : "СБОЛ",
-            "type" : "prom"
-        }
+                    "appId" : 5,
+                    "authLink" : "onlineappmobile://sbolidexternallogin/",
+                    "utilLink" : "onlineappmobile://sbolonline/",
+                    "iconURL" : "https://cms-res-web.online.sberbank.ru/sberpay/SDK/budgetonline.png",
+                    "name" : "Онлайн",
+                    "type" : "prom"
+                },
+                {
+                    "appId" : 4,
+                    "authLink" : "budgetonline-ios://sbolidexternallogin/",
+                    "utilLink" : "budgetonline-ios://sbolonline/",
+                    "iconURL" : "https://cms-res-web.online.sberbank.ru/sberpay/SDK/budgetonline.png",
+                    "name" : "Бюджет Онлайн",
+                    "type" : "prom"
+                },
+                {
+                    "appId" : 3,
+                    "authLink" : "ios-app-smartonline://sbolidexternallogin/",
+                    "utilLink" : "ios-app-smartonline://sbolonline/",
+                    "iconURL" : "https://cms-res-web.online.sberbank.ru/sberpay/SDK/SBOL_logo_small.png",
+                    "name" : "Онлайн",
+                    "type" : "prom"
+                },
+                {
+                    "appId" : 2,
+                    "authLink" : "btripsexpenses://sbolidexternallogin/",
+                    "utilLink" : "btripsexpenses://sbolonline/",
+                    "iconURL" : "https://cms-res-web.online.sberbank.ru/sberpay/SDK/iconSB.png",
+                    "name" : "Онлайн",
+                    "type" : "prom"
+                }
     ],
     "certHashes" : [
         "8Zfp1LAJpCyXmDDrT6O7fcNWRIIJnRcUExv17jA50Wc=",

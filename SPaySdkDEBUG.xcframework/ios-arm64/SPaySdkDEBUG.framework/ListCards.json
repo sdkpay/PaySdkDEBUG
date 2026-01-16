@@ -89,7 +89,7 @@
         "buttons" : [
           {
             "type" : "View",
-            "deeplinkIos" : "transfers\/m2mPull?path=create",
+            " Ios" : "transfers\/m2mPull?path=create",
             "deeplinkAndroid" : "android-app:\/\/ru.sberbankmobile\/android-app\/ru.sberbankmobile\/transfers\/m2mPull?action=create"
           }
         ],
