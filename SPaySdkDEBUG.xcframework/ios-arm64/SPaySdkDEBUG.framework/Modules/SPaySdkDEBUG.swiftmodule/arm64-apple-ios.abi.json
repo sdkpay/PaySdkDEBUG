@@ -11438,7 +11438,7 @@
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Presentation\/AuthVC\/AuthPresenter.swift",
       "kind": "IntegerLiteral",
-      "offset": 9217,
+      "offset": 9213,
       "length": 1,
       "value": "0"
     },
@@ -16352,161 +16352,161 @@
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2390,
+      "offset": 2467,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2411,
+      "offset": 2488,
       "length": 2,
       "value": "-2"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2441,
+      "offset": 2518,
       "length": 2,
       "value": "-3"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2466,
+      "offset": 2543,
       "length": 2,
       "value": "-4"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2493,
+      "offset": 2570,
       "length": 2,
       "value": "-5"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2515,
+      "offset": 2592,
       "length": 2,
       "value": "-7"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2533,
+      "offset": 2610,
       "length": 2,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2560,
+      "offset": 2637,
       "length": 2,
       "value": "-9"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2587,
+      "offset": 2664,
       "length": 4,
       "value": "-403"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2619,
+      "offset": 2696,
       "length": 4,
       "value": "-423"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2647,
+      "offset": 2724,
       "length": 4,
       "value": "-400"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2673,
+      "offset": 2750,
       "length": 4,
       "value": "-404"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2701,
+      "offset": 2778,
       "length": 4,
       "value": "-500"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2725,
+      "offset": 2802,
       "length": 4,
       "value": "-666"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2752,
+      "offset": 2829,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2772,
+      "offset": 2849,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2793,
+      "offset": 2870,
       "length": 5,
       "value": "-1001"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2824,
+      "offset": 2901,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2849,
+      "offset": 2926,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2870,
+      "offset": 2947,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2881,
+      "offset": 2958,
       "length": 11,
       "value": "8"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2902,
+      "offset": 2979,
       "length": 19,
       "value": "9"
     },
     {
       "filePath": "\/Users\/kirillfarafonov\/CORE\/paySDK-ios\/SPaySdk\/Utilites\/SDKError\/SDKError.swift",
       "kind": "IntegerLiteral",
-      "offset": 2931,
+      "offset": 3008,
       "length": 12,
       "value": "10"
     },
